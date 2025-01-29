@@ -19,5 +19,3 @@ if (isset($_POST["create"])){
     fillTables();
     echo "<script>document.getElementById('create').style.visibility = 'hidden';</script>";
 }
-
-//asd
